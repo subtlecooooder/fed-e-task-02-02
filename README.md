@@ -78,5 +78,6 @@
 
 ## 二、编程题
 ### 1、使用 Webpack 实现 Vue 项目打包任务
-- 答案已放置在`code`目录下
-- [视频简介]()
+- 代码已放置在`code`目录下
+- [视频简介](https://v.youku.com/v_show/id_XNDc3OTIxOTU5Mg==.html?x=&sharefrom=android&sharekey=8be9dea2392aca6fc08022babd6520a01)
+- 由于电脑麦克风问题，视频被迫采用手机录制，可能会有点晃，麻烦老师了🤦‍♂️
