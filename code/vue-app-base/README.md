@@ -5,21 +5,24 @@
 3. 这里的要求就是直接使用 webpack 以及你所了解的周边工具、Loader、Plugin 还原这个项目的打包任务
 4. 尽可能的使用上所有你了解到的功能和特性
 
-## Build Setup
-
-``` bash
-# Project setup
-yarn
-
-# Compiles and hot-reloads for development
+# 安装运行
+```
+yarn install
+```
+```
 yarn serve
+```
 
-# Compiles and minifies for production
-yarn build
-
-# Lints files
+# 其他命令
+1. eslint校验
+```
 yarn lint
-
-# Lints and fixes files
-yarn lintfix
+```
+2. eslint修复
+```
+yarn fix
+```
+3. 生产打包
+```
+yarn build
 ```
