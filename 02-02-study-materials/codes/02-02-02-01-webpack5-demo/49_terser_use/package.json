@@ -41,7 +41,7 @@
     "react-refresh": "^0.10.0",
     "react-router-dom": "^5.2.0",
     "style-loader": "^3.2.1",
-    "terser": "^5.7.1",
+    "terser": "^5.14.2",
     "webpack": "^5.47.1",
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2",
